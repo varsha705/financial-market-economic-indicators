@@ -1,0 +1,9 @@
+model,horizon,rmse,mae,r2
+Linear Regression,3M,1.5218,1.1511,0.932
+Linear Regression,6M,2.8492,2.4434,0.9247
+Random Forest,3M,16.4358,14.7228,0.9605
+Random Forest,6M,15.5056,13.5522,0.9012
+XGBoost,3M,9.3442,8.2903,0.774
+XGBoost,6M,8.3176,6.9685,0.0214
+ARIMA,3M,11.4648,11.4482,0.9835
+ARIMA,6M,9.3978,9.3651,0.9911
