@@ -47,3 +47,14 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# API Keys - NEVER push
+config.R
+*.env
+
+# Raw API data
+data/raw/*.json
+
+# R files
+.Rhistory
+.RData
