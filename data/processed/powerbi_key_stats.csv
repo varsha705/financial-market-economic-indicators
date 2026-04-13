@@ -1,14 +1,14 @@
 metric,value
-Total Records,101
-Date Range Start,2017-03-01
+Total Records,100
+Date Range Start,2017-04-01
 Date Range End,2025-07-01
-Avg CPI,277.9
+Avg CPI,278.24
 Max CPI,322.17
-Min CPI,243.89
+Min CPI,244
 Avg Unemployment,4.56
-Avg Interest Rate,2.34
-Avg Oil Price,66.53
+Avg Interest Rate,2.36
+Avg Oil Price,66.7
 Best Model 3M,Linear Regression
 Best Model 6M,Linear Regression
-Best RMSE 3M,1.5218
-Best RMSE 6M,2.8492
+Best RMSE 3M,1.4076
+Best RMSE 6M,3.2222
